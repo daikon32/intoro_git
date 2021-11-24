@@ -2,7 +2,11 @@ Is the order a rabbit?
 
 commit a
 
+<<<<<<< HEAD
 commit b
 
 commit c
 
+=======
+commit b
+>>>>>>> 686089c (commit B)
