@@ -1,0 +1,2 @@
+master branchでfoo.txtを作成
+
