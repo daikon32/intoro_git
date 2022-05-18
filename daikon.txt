@@ -4,3 +4,4 @@ daikon.txtの中身です
 master branchでdaikon.txtを作成
 
 
+hogehoge
